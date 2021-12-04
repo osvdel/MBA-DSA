@@ -11,6 +11,8 @@ output:
 
 ## R Markdown
 
+abc
+
 O R Markdown é um ambiente onde é possível escrever os scripts em R e, caso necessário, exportá-los para alguns formatos como PDF, Word ou HTML. Em geral, melhora a organização das informações e a torna mais fácil. O compartilhamento do código também é facilitado.
 
 Em um projeto, poderíamos escrever diversas linhas explicativas ou nossos comentários sobre determinada etapa da análise.
