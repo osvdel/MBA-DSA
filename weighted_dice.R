@@ -4,3 +4,4 @@ roll <- function() {
   sum(dice)
   
 }
+#teste
